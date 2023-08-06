@@ -18,5 +18,5 @@ The "ViT Transformers" project explores the use of Vision Transformers (ViT) for
 
 ## Results
 
-The output of the "ViT Transformers" project is the ability to detect and classify images from the CIFAR-10 dataset into one of the ten predefined classes. These classes include objects like airplanes, automobiles, birds, cats, deer, dogs, frogs, horses, ships, and trucks. The model's output is a prediction of the class label for each input image, indicating the object category it belongs to.
+The output of the "ViT Transformers" project is the ability to detect and classify images from the CIFAR-10 dataset into one of the ten predefined classes. These classes include objects like airplanes, automobiles, birds, cats, deer, dogs, frogs, horses, ships, and trucks.
 
